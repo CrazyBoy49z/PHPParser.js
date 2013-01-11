@@ -1,0 +1,3 @@
+[submodule "phpjs"]
+	path = phpjs
+	url = https://github.com/danyaPostfactum/php.js
